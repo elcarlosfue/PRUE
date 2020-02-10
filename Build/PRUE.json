@@ -4,7 +4,7 @@
 "dataUrl": "PRUE.data.unityweb",
 "wasmCodeUrl": "PRUE.wasm.code.unityweb",
 "wasmFrameworkUrl": "PRUE.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 480000000,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
